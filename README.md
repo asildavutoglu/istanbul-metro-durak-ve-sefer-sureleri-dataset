@@ -1,13 +1,22 @@
 # 🚇 İstanbul Metro Durak ve Sefer Süreleri Veri Seti
 
-Bu depo, İstanbul'daki tüm aktif metro hatlarının (M1'den M8'e kadar) ve Marmaray'ın güncel durak isimlerini, seyahat sürelerini ve bilet tarifelerini içerir.
+Bu depo, İstanbul'daki tüm aktif metro hatlarının (M1-M8) ve Marmaray'ın güncel durak isimlerini, seyahat sürelerini ve bilet tarifelerini içeren kapsamlı bir **JSON** veri seti sunar.
 
-## 🔗 Canlı Uygulama
-Bu veriler kullanılarak oluşturulan hızlı hesaplama aracını ziyaret edin:
-[**metrodakikahesapla.com**](https://metrodakikahesapla.com/)
+## 🔗 Hızlı Bağlantılar
+* 🚀 **Canlı Uygulama:** [metrodakikahesapla.com](https://metrodakikahesapla.com/)
+* 🌐 **Canlı Dokümantasyon (GitHub Pages):** [Veri Önizleme Paneli](https://asildavutoglu.github.io/istanbul-metro-durak-ve-sefer-sureleri-dataset/)
+
+---
+
+## 📊 Veri Seti İçeriği
+`istanbul-metro-data.json` dosyası şu bilgileri kapsamaktadır:
+- **Hatlar:** M1A, M1B, M2, M3, M4, M5, M6, M7, M8 ve Marmaray.
+- **İstasyonlar:** Hatlar üzerindeki tüm durakların sıralı listesi.
+- **Süreler:** Duraklar arası geçiş süreleri (dakika).
+- **Ücretler:** İBB güncel toplu taşıma tarifesi.
 
 ## 🛠 Kurulum ve Kullanım
-Veri setini projelerinizde kullanmak için `istanbul-metro-data.json` dosyasını indirmeniz yeterlidir. Python ile örnek bir hesaplama yapmak için:
+Veri setini projelerinizde kullanmak için JSON dosyasını indirmeniz yeterlidir. Python ile hızlı bir test yapmak için:
 
 1. Depoyu klonlayın.
 2. `python hesapla.py` komutunu çalıştırın.
@@ -19,4 +28,4 @@ Veri setini projelerinizde kullanmak için `istanbul-metro-data.json` dosyasın�
 - **M5, M7, M8** ve daha fazlası...
 
 ---
-*Bu proje açık kaynaklı bir toplu taşıma veri girişimidir.*
+*Bu proje açık kaynaklı bir toplu taşıma veri girişimidir. Katkıda bulunmak için Pull Request gönderebilirsiniz.*
