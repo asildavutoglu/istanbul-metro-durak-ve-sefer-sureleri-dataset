@@ -1,0 +1,72 @@
+{
+  "last_updated": "2026-01-20",
+  "city": "İstanbul",
+  "currency": "TRY",
+  "lines": {
+    "M1A": {
+      "name": "Yenikapı - Atatürk Havalimanı",
+      "stations": ["Yenikapı", "Aksaray", "Emniyet-Fatih", "Topkapı-Ulubatlı", "Bayrampaşa-Maltepe", "Sağmalcılar", "Kocatepe", "Otogar", "Terazidere", "Davutpaşa-YTÜ", "Merter", "Zeytinburnu", "Bakırköy-İncirli", "Bahçelievler", "Ataköy-Şirinevler", "Yenibosna", "DTM-İstanbul Fuar Merkezi", "Atatürk Havalimanı"],
+      "travel_times_minutes": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    },
+    "M1B": {
+      "name": "Yenikapı - Kirazlı",
+      "stations": ["Yenikapı", "Aksaray", "Emniyet-Fatih", "Topkapı-Ulubatlı", "Bayrampaşa-Maltepe", "Sağmalcılar", "Kocatepe", "Otogar", "Esenler", "Menderes", "Üçyüzlü", "Bağcılar Meydan", "Kirazlı"],
+      "travel_times_minutes": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    },
+    "M2": {
+      "name": "Yenikapı - Hacıosman",
+      "stations": ["Yenikapı", "Vezneciler", "Haliç", "Şişhane", "Taksim", "Osmanbey", "Şişli-Mecidiyeköy", "Gayrettepe", "Levent", "4.Levent", "Sanayi Mahallesi", "Seyrantepe", "İTÜ-Ayazağa", "Atatürk Oto Sanayi", "Darüşşafaka", "Hacıosman"],
+      "travel_times_minutes": [2, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2]
+    },
+    "M3": {
+      "name": "Bakırköy Sahil - Kayaşehir Merkez",
+      "stations": ["Bakırköy Sahil", "Özgürlük Meydanı", "İncirli", "Haznedar", "İlkyuva", "Yıldıztepe", "Molla Gürani", "Kirazlı", "Yenimahalle", "Mahmutbey", "İSTOÇ", "İkitelli Sanayi", "Turgut Özal", "Siteler", "Başak Konutları", "Metrokent", "Onurkent", "Şehir Hastanesi", "Toplu Konutlar", "Kayaşehir Merkez"],
+      "travel_times_minutes": [2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+    },
+    "M4": {
+      "name": "Kadıköy - Sabiha Gökçen Havalimanı",
+      "stations": ["Kadıköy", "Ayrılık Çeşmesi", "Acıbadem", "Ünalan", "Uzunçayır", "Göztepe", "Yenisahra", "Kozyatağı", "Bostancı", "Küçükyalı", "Maltepe", "Huzurevi", "Gülsuyu", "Esenkent", "Adliye Hastane", "Soğanlık", "Kartal", "Yakacık Adnan Kahveci", "Pendik", "Tavşantepe", "Fevzi Çakmak – Hastane", "Yayalar – Şeyli", "Kurtköy", "Sabiha Gökçen"],
+      "travel_times_minutes": [3, 2, 2, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 3, 3, 2, 2, 3, 3, 3]
+    },
+    "M5": {
+      "name": "Üsküdar - Samandıra Merkez",
+      "stations": ["Üsküdar", "Fıstıkağacı", "Bağlarbaşı", "Altunizade", "Kısıklı", "Bulgurlu", "Ümraniye", "Çarşı", "Yamanevler", "Çakmak", "Ihlamurkuyu", "Altınşehir", "İmam Hatip", "Dudullu", "Necip Fazıl", "Çekmeköy", "Sancaktepe Şehir Hastanesi", "Sarıgazi", "Yenidoğan", "Samandıra Merkez"],
+      "travel_times_minutes": [3, 2, 1, 1, 3, 1, 2, 4, 2, 1, 4, 3, 4, 1, 2, 3, 2, 1, 3]
+    },
+    "M6": {
+      "name": "Levent - Boğaziçi Üniversitesi/Hisarüstü",
+      "stations": ["Levent", "Nispetiye", "Etiler", "Boğaziçi Üniversitesi/Hisarüstü"],
+      "travel_times_minutes": [2, 2, 3]
+    },
+    "M7": {
+      "name": "Yıldız - Mahmutbey",
+      "stations": ["Yıldız", "Fulya", "Mecidiyeköy", "Çağlayan", "Kâğıthane", "Nurtepe", "Alibeyköy", "Çırçır", "Veysel Karani-Akşemsettin", "Yeşilpınar", "Kâzım Karabekir", "Yenimahalle", "Karadeniz Mahallesi", "Giyimkent-Tekstilkent", "Oruç Reis", "Göztepe Mahallesi", "Mahmutbey"],
+      "travel_times_minutes": [0, 2, 2, 2, 2, 2, 3, 2, 2, 2, 2, 3, 3, 3, 2, 2, 3]
+    },
+    "M8": {
+      "name": "Bostancı - Parseller",
+      "stations": [
+        {"name": "Bostancı", "transfer": "Marmaray, İDO, YHT"},
+        {"name": "Emin Ali Paşa", "transfer": null},
+        {"name": "Ayşekadın", "transfer": null},
+        {"name": "Kozyatağı", "transfer": "M4 Metro"},
+        {"name": "Küçükbakkalköy", "transfer": null},
+        {"name": "İçerenköy", "transfer": null},
+        {"name": "Kayışdağı", "transfer": null},
+        {"name": "Mevlana", "transfer": null},
+        {"name": "İmes", "transfer": null},
+        {"name": "Modoko-Keyap", "transfer": null},
+        {"name": "Dudullu", "transfer": "M5 Metro"},
+        {"name": "Huzur", "transfer": null},
+        {"name": "Parseller", "transfer": null}
+      ],
+      "travel_times_minutes": [2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 2, 2]
+    }
+  },
+  "fares": {
+    "tam": 35.00,
+    "ogrenci": 17.08,
+    "sosyal": 25.06,
+    "night_multiplier": 2
+  }
+}
