@@ -2,8 +2,9 @@
 
 Bu depo, İstanbul'daki tüm aktif metro hatlarının (M1-M8) ve Marmaray'ın güncel durak isimlerini, seyahat sürelerini ve bilet tarifelerini içeren kapsamlı bir **JSON** veri seti sunar.
 
-## 🔗 Hızlı Bağlantılar
-* 🚀 **Canlı Uygulama:** [metrodakikahesapla.com](https://metrodakikahesapla.com/)
+## 🔗 Canlı Uygulamalar
+* 🚇 **Metro Süre Hesaplama:** [metrodakikahesapla.com](https://metrodakikahesapla.com/)
+* 🚆 **Marmaray Durak ve Ücret Hesaplama:** [metrodakikahesapla.com/marmaray-durak-hesaplama](https://metrodakikahesapla.com/marmaray-durak-hesaplama)
 * 🌐 **Canlı Dokümantasyon (GitHub Pages):** [Veri Önizleme Paneli](https://asildavutoglu.github.io/istanbul-metro-durak-ve-sefer-sureleri-dataset/)
 
 ---
