@@ -1,6 +1,6 @@
 # İstanbul Metro Durak ve Sefer Süreleri Veri Seti
 
-Bu depo, İstanbul'daki tüm aktif metro hatlarının (M1-M8) ve Marmaray'ın güncel durak isimlerini, seyahat sürelerini ve bilet tarifelerini içeren kapsamlı bir **JSON** veri seti sunar.
+İstanbul'daki tüm aktif metro hatlarının (M1-M8) ve Marmaray'ın güncel durak isimlerini, seyahat sürelerini ve bilet tarifelerini içeren kapsamlı bir **JSON** veri seti sunar.
 
 ## Canlı Uygulamalar
 *  **Metro Süre Hesaplama:** [metrodakikahesapla.com](https://metrodakikahesapla.com/)
